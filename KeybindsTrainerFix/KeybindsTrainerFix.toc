@@ -1,0 +1,6 @@
+## Interface: 90105
+## Title: KeybindsTrainerFix
+## Notes: Test keybind knowledge and memorize them as fast as possible.
+## Author: tycerch (original author Khab)
+
+KeybindsTrainerFix.lua
