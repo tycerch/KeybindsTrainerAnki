@@ -1,0 +1,8 @@
+## Interface: 90105
+## Title: KeybindsTrainerAnki
+## Notes: Test keybind knowledge, memorizing them by focusing on slower reaction times.
+## Author: tycerch (original author Khab)
+## Version: 2.0 
+## SavedVariables: KBT_SavedData
+
+KeybindsTrainerAnki.lua
